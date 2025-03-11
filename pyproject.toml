@@ -10,7 +10,8 @@ requires-python = ">=3.11,<4.0"
 dependencies = [
     "inspect-evals @ git+https://github.com/UKGovernmentBEIS/inspect_evals.git",
     "inspect-ai (>=0.3.66,<0.4.0)",
-    "openai (>=1.63.2,<2.0.0)"
+    "openai (>=1.63.2,<2.0.0)",
+    "transformers (>=4.49.0,<5.0.0)"
 ]
 
 
